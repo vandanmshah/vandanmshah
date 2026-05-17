@@ -8,10 +8,13 @@
 
 <p>
   I engineer <b>sub-2s</b>, mobile-first React apps — performance, UX, and revenue in one stack.<br/>
-  <b>8+ years</b> shipping production TypeScript · available for contracts
+  <b>8+ years</b> shipping production TypeScript · Bengaluru · available for contracts
 </p>
 
 <p>
+  <a href="https://github.com/vandanmshah">
+    <img src="https://img.shields.io/badge/GitHub-vandanmshah-181717?style=for-the-badge&labelColor=1a1a1a&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Discovery+Call&details=15-minute+discovery+call+to+audit+your+frontend+bottlenecks+and+map+out+a+high-performance+architecture.&add=vandanshah77%40gmail.com">
     <img src="https://img.shields.io/badge/📅_Book_a_Free_Call-F97316?style=for-the-badge&labelColor=1a1a1a" alt="Book a free call"/>
   </a>
@@ -61,22 +64,6 @@
 
 ---
 
-### 📊 github
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vandanmshah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vandanmshah&theme=tokyonight&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub streak"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandanmshah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vandanmshah&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=F97316&line=F97316&point=c9d1d9" alt="Contribution graph"/>
-
-</div>
-
----
-
 <div align="center">
 
 **open to freelance & contract work** — let's build something fast.
@@ -84,9 +71,5 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=100&section=footer"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/vandanmshah/vandanmshah/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 
 </div>
